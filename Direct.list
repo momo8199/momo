@@ -388,6 +388,7 @@ DOMAIN-SUFFIX,cibntv.net
 DOMAIN-SUFFIX,clouddn.com
 DOMAIN-SUFFIX,cloudxns.net
 DOMAIN-SUFFIX,cn163.net
+DOMAIN-SUFFIX,cn.bing.com
 DOMAIN-SUFFIX,cnblogs.com
 DOMAIN-SUFFIX,cnki.net
 DOMAIN-SUFFIX,cnmstl.net
@@ -401,10 +402,18 @@ DOMAIN-SUFFIX,dianping.com
 DOMAIN-SUFFIX,dilidili.wang
 DOMAIN-SUFFIX,douban.com
 DOMAIN-SUFFIX,doubanio.com
+DOMAIN-SUFFIX,dongmankk.com
 DOMAIN-SUFFIX,dpfile.com
 DOMAIN-SUFFIX,duowan.com
 DOMAIN-SUFFIX,dxycdn.com
+DOMAIN-SUFFIX,dy1234.net
 DOMAIN-SUFFIX,dytt8.net
+DOMAIN-SUFFIX,dynu.com
+DOMAIN-SUFFIX,NS6.dynu.com
+DOMAIN-SUFFIX,ns7.dynu.com
+DOMAIN-SUFFIX,NS8.dynu.com
+DOMAIN-SUFFIX,NS10.dynu.com
+DOMAIN-SUFFIX,NS11.dynu.com
 DOMAIN-SUFFIX,easou.com
 DOMAIN-SUFFIX,eastday.com
 DOMAIN-SUFFIX,eastmoney.com
@@ -429,6 +438,7 @@ DOMAIN-SUFFIX,gwdang.com
 DOMAIN-SUFFIX,gzlzfm.com
 DOMAIN-SUFFIX,haibian.com
 DOMAIN-SUFFIX,haosou.com
+DOMAIN-SUFFIX,hifini.com
 DOMAIN-SUFFIX,hollisterco.com
 DOMAIN-SUFFIX,hongxiu.com
 DOMAIN-SUFFIX,huajiao.com
@@ -494,6 +504,8 @@ DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,oschina.net
 DOMAIN-SUFFIX,ourdvs.com
 DOMAIN-SUFFIX,polyv.net
+DOMAIN-SUFFIX,pc528.net
+DOMAIN-SUFFIX,pulseway.com
 DOMAIN-SUFFIX,qbox.me
 DOMAIN-SUFFIX,qcloud.com
 DOMAIN-SUFFIX,qcloudcdn.com
@@ -573,6 +585,7 @@ DOMAIN-SUFFIX,yinxiang.com
 DOMAIN-SUFFIX,yinyuetai.com
 DOMAIN-SUFFIX,yixia.com
 DOMAIN-SUFFIX,ys168.com
+DOMAIN-SUFFIX,yunzmb.com
 DOMAIN-SUFFIX,yuewen.com
 DOMAIN-SUFFIX,yy.com
 DOMAIN-SUFFIX,yystatic.com
